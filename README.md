@@ -10,3 +10,4 @@
 - No caso da classe `Animal` existem 3 métodos, andar(), respirar(), falar().
   - Até esse momento, na perspectiva da POO, atende.
   - Mas a partir do momento que entrou a classe `Peixe`, quebrou o principio da POO.
+  - Sendo asssim Heranca tem e algo herdado.
